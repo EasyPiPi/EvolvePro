@@ -10,6 +10,7 @@ dependencies:
   - cudatoolkit
   - pathlib
   - biopython
+  - matplotlib
   - pip
   - pip:
     - ankh
